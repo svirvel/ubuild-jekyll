@@ -1,4 +1,14 @@
 ---
 label: person
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: profile_picture
+  type: file
+  config:
+    maxSize: 64
+  label: Profile picture
