@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: Kneedly <br><strong>Providing digital solutions for the health care</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
