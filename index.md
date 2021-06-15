@@ -32,6 +32,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+- template: team
+  team:
+  - profile_pircute: "/uploads/2021/06/15/profile_sqared.jpg"
+    name: Alice Nilsson
 - template: content-feature
   block: feature-1
   media_alignment: Right
