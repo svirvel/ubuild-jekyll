@@ -4,6 +4,17 @@ hide_body: true
 fields:
 - name: team
   type: field_group_list
+  fields:
+  - name: profile_pircute
+    type: file
+    config:
+      maxSize: 64
+    label: Profile picture
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
   config:
     min: 
     max: 
