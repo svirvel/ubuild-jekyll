@@ -34,6 +34,8 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
 - template: team
   team:
+  - profile_pircute: "/uploads/2021/06/15/linn.jpg"
+    name: Linn Söderholm
   - profile_pircute: "/uploads/2021/06/15/profile_sqared.jpg"
     name: Alice Nilsson
 - template: content-feature
